@@ -1,0 +1,431 @@
+2022-07-20 11:45:05,374 [main] INFO ebanking - URL is opened
+2022-07-20 11:45:11,502 [main] INFO ebanking - Entered username
+2022-07-20 11:45:11,579 [main] INFO ebanking - Entered password
+2022-07-20 14:34:34,056 [main] INFO ebanking - URL is opened
+2022-07-20 14:37:34,558 [main] INFO ebanking - URL is opened
+2022-07-20 14:37:38,464 [main] INFO ebanking - Entered username
+2022-07-20 14:37:38,637 [main] INFO ebanking - Entered password
+2022-07-20 14:37:39,936 [main] INFO ebanking - Login test passed
+2022-07-20 15:24:40,008 [main] INFO ebanking - URL is opened
+2022-07-20 15:24:42,756 [main] INFO ebanking - Entered username
+2022-07-20 15:24:43,003 [main] INFO ebanking - Entered password
+2022-07-20 15:24:44,273 [main] INFO ebanking - Login test passed
+2022-07-20 15:25:00,104 [main] INFO ebanking - URL is opened
+2022-07-20 15:25:39,705 [main] INFO ebanking - URL is opened
+2022-07-20 15:25:42,794 [main] INFO ebanking - Entered username
+2022-07-20 15:25:42,893 [main] INFO ebanking - Entered password
+2022-07-20 16:10:18,909 [main] INFO ebanking - URL is opened
+2022-07-20 16:10:20,195 [main] INFO ebanking - Entered username
+2022-07-20 16:10:20,301 [main] INFO ebanking - Entered password
+2022-07-20 16:10:21,828 [main] INFO ebanking - Login test passed
+2022-07-20 16:54:21,586 [main] INFO ebanking - URL is opened
+2022-07-20 16:54:23,572 [main] INFO ebanking - Entered username
+2022-07-20 16:54:23,706 [main] INFO ebanking - Entered password
+2022-07-20 16:55:33,550 [main] INFO ebanking - URL is opened
+2022-07-20 16:58:03,262 [main] INFO ebanking - URL is opened
+2022-07-20 17:00:33,502 [main] INFO ebanking - URL is opened
+2022-07-20 17:00:35,061 [main] INFO ebanking - Entered username
+2022-07-20 17:00:35,149 [main] INFO ebanking - Entered password
+2022-07-20 19:18:46,437 [main] INFO ebanking - URL is opened
+2022-07-20 19:19:38,610 [main] INFO ebanking - URL is opened
+2022-07-20 19:19:41,481 [main] INFO ebanking - Entered username
+2022-07-20 19:19:41,592 [main] INFO ebanking - Entered password
+2022-07-20 20:25:52,886 [main] INFO ebanking - URL is opened
+2022-07-20 20:27:58,650 [main] INFO ebanking - URL is opened
+2022-07-20 20:29:13,892 [main] INFO ebanking - URL is opened
+2022-07-20 20:32:11,471 [main] INFO ebanking - URL is opened
+2022-07-20 20:33:42,356 [main] INFO ebanking - URL is opened
+2022-07-20 20:33:43,784 [main] INFO ebanking - Entered username
+2022-07-20 20:33:43,894 [main] INFO ebanking - Entered password
+2022-07-20 20:33:45,594 [main] INFO ebanking - Login test passed
+2022-07-20 20:36:04,252 [main] INFO ebanking - URL is opened
+2022-07-20 20:36:14,882 [main] WARN ebanking - Login passed
+2022-07-20 20:56:31,034 [main] INFO ebanking - username provided
+2022-07-20 20:56:31,124 [main] INFO ebanking - password provided
+2022-07-20 20:56:36,166 [main] INFO ebanking - username provided
+2022-07-20 20:56:36,244 [main] INFO ebanking - password provided
+2022-07-20 20:56:40,682 [main] WARN ebanking - Login passed
+2022-07-20 20:56:45,955 [main] INFO ebanking - username provided
+2022-07-20 20:56:46,108 [main] INFO ebanking - password provided
+2022-07-20 20:56:51,225 [main] INFO ebanking - username provided
+2022-07-20 20:56:51,379 [main] INFO ebanking - password provided
+2022-07-20 21:01:30,438 [main] INFO ebanking - username provided
+2022-07-20 21:01:30,529 [main] INFO ebanking - password provided
+2022-07-20 21:01:35,987 [main] INFO ebanking - username provided
+2022-07-20 21:01:36,132 [main] INFO ebanking - password provided
+2022-07-20 21:01:40,686 [main] WARN ebanking - Login passed
+2022-07-20 21:01:46,614 [main] INFO ebanking - username provided
+2022-07-20 21:01:46,768 [main] INFO ebanking - password provided
+2022-07-20 21:01:53,095 [main] INFO ebanking - username provided
+2022-07-20 21:01:53,255 [main] INFO ebanking - password provided
+2022-07-20 21:01:58,891 [main] WARN ebanking - Login passed
+2022-07-20 21:02:05,382 [main] INFO ebanking - username provided
+2022-07-20 21:02:05,516 [main] INFO ebanking - password provided
+2022-07-20 21:04:04,828 [main] INFO ebanking - password provided
+2022-07-20 21:04:10,313 [main] INFO ebanking - password provided
+2022-07-20 21:04:14,548 [main] WARN ebanking - Login passed
+2022-07-20 21:04:19,978 [main] INFO ebanking - password provided
+2022-07-20 21:04:25,109 [main] INFO ebanking - password provided
+2022-07-20 21:04:29,492 [main] WARN ebanking - Login passed
+2022-07-20 21:04:35,572 [main] INFO ebanking - password provided
+2022-07-20 21:08:38,858 [main] INFO ebanking - password provided
+2022-07-20 21:08:44,176 [main] INFO ebanking - password provided
+2022-07-20 21:08:48,624 [main] WARN ebanking - Login passed
+2022-07-20 21:08:54,717 [main] INFO ebanking - password provided
+2022-07-20 21:09:00,042 [main] INFO ebanking - password provided
+2022-07-20 21:19:26,537 [main] INFO ebanking - password provided
+2022-07-20 21:19:31,897 [main] INFO ebanking - password provided
+2022-07-20 21:19:36,925 [main] WARN ebanking - Login passed
+2022-07-20 21:19:42,745 [main] INFO ebanking - password provided
+2022-07-20 21:19:47,787 [main] INFO ebanking - password provided
+2022-07-20 21:20:59,697 [main] INFO ebanking - password provided
+2022-07-20 21:21:04,799 [main] INFO ebanking - password provided
+2022-07-20 21:21:09,216 [main] WARN ebanking - Login passed
+2022-07-20 21:21:15,166 [main] INFO ebanking - password provided
+2022-07-20 21:21:20,574 [main] INFO ebanking - password provided
+2022-07-20 21:21:25,233 [main] WARN ebanking - Login passed
+2022-07-20 21:21:31,050 [main] INFO ebanking - password provided
+2022-07-20 22:14:31,314 [main] INFO ebanking - password provided
+2022-07-20 22:16:30,259 [main] INFO ebanking - password provided
+2022-07-20 22:16:48,121 [main] INFO ebanking - validation started....
+2022-07-20 22:16:48,144 [main] INFO ebanking - test case passed....
+2022-07-21 08:33:20,740 [main] INFO ebanking - password provided
+2022-07-21 08:33:37,758 [main] INFO ebanking - validation started....
+2022-07-21 08:33:37,780 [main] INFO ebanking - test case passed....
+2022-07-21 08:35:43,769 [main] INFO ebanking - password provided
+2022-07-21 08:36:26,123 [main] INFO ebanking - password provided
+2022-07-21 08:37:24,924 [main] INFO ebanking - password provided
+2022-07-21 08:39:08,185 [main] INFO ebanking - password provided
+2022-07-21 08:39:57,770 [main] INFO ebanking - password provided
+2022-07-21 08:41:58,129 [main] INFO ebanking - password provided
+2022-07-21 08:43:32,770 [main] INFO ebanking - password provided
+2022-07-21 08:45:32,316 [main] INFO ebanking - password provided
+2022-07-21 08:45:33,631 [main] INFO ebanking - AddCustomer 1 
+2022-07-21 08:45:34,008 [main] INFO ebanking - AddCustomer 2 
+2022-07-21 08:45:45,509 [main] INFO ebanking - validation started....
+2022-07-21 08:45:45,564 [main] INFO ebanking - test case passed....
+2022-07-21 08:57:31,432 [main] INFO ebanking - password provided
+2022-07-21 08:58:27,316 [main] INFO ebanking - password provided
+2022-07-21 08:59:03,049 [main] INFO ebanking - password provided
+2022-07-21 09:01:16,935 [main] INFO ebanking - password provided
+2022-07-21 09:02:00,934 [main] INFO ebanking - password provided
+2022-07-21 09:02:39,485 [main] INFO ebanking - password provided
+2022-07-21 09:04:05,702 [main] INFO ebanking - password provided
+2022-07-21 09:04:52,120 [main] INFO ebanking - password provided
+2022-07-21 09:09:09,855 [main] INFO ebanking - password provided
+2022-07-21 09:10:17,409 [main] INFO ebanking - password provided
+2022-07-21 09:11:34,470 [main] INFO ebanking - password provided
+2022-07-21 09:12:15,056 [main] INFO ebanking - password provided
+2022-07-21 09:12:26,359 [main] INFO ebanking - validation started....
+2022-07-21 09:12:26,413 [main] INFO ebanking - test case passed....
+2022-07-21 09:44:09,442 [main] INFO ebanking - password provided
+2022-07-21 09:44:59,517 [main] INFO ebanking - password provided
+2022-07-21 09:45:40,031 [main] INFO ebanking - password provided
+2022-07-21 09:46:02,569 [main] INFO ebanking - password provided
+2022-07-21 09:49:31,718 [main] INFO ebanking - password provided
+2022-07-21 09:49:41,541 [main] INFO ebanking - validation started....
+2022-07-21 09:49:41,598 [main] INFO ebanking - test case passed....
+2022-07-21 09:54:41,100 [main] INFO ebanking - password provided
+2022-07-21 09:56:16,834 [main] INFO ebanking - password provided
+2022-07-21 09:56:27,835 [main] INFO ebanking - validation started....
+2022-07-21 09:57:13,551 [main] INFO ebanking - password provided
+2022-07-21 09:57:53,160 [main] INFO ebanking - password provided
+2022-07-21 09:58:44,682 [main] INFO ebanking - password provided
+2022-07-21 10:00:13,836 [main] INFO ebanking - password provided
+2022-07-21 10:03:17,640 [main] INFO ebanking - password provided
+2022-07-21 10:03:37,244 [main] INFO ebanking - validation started....
+2022-07-21 10:03:37,297 [main] INFO ebanking - test case passed....
+2022-07-21 10:06:10,231 [main] INFO ebanking - password provided
+2022-07-21 10:08:05,385 [main] INFO ebanking - password provided
+2022-07-21 10:09:04,032 [main] INFO ebanking - password provided
+2022-07-21 10:09:42,273 [main] INFO ebanking - password provided
+2022-07-21 10:11:35,527 [main] INFO ebanking - password provided
+2022-07-21 10:12:35,682 [main] INFO ebanking - password provided
+2022-07-21 10:13:12,307 [main] INFO ebanking - password provided
+2022-07-21 10:18:17,383 [main] INFO ebanking - password provided
+2022-07-21 10:19:19,125 [main] INFO ebanking - password provided
+2022-07-21 10:19:33,664 [main] INFO ebanking - validation started....
+2022-07-21 10:19:35,791 [main] INFO ebanking - test case passed....
+2022-07-21 10:19:56,679 [main] INFO ebanking - password provided
+2022-07-21 10:20:19,268 [main] INFO ebanking - password provided
+2022-07-21 10:20:45,752 [main] INFO ebanking - password provided
+2022-07-21 10:21:44,120 [main] INFO ebanking - password provided
+2022-07-21 10:22:15,962 [main] INFO ebanking - password provided
+2022-07-21 10:22:29,921 [main] INFO ebanking - validation started....
+2022-07-21 10:22:31,268 [main] INFO ebanking - test case passed....
+2022-07-21 10:43:38,418 [main] INFO ebanking - password provided
+2022-07-21 10:44:01,443 [main] INFO ebanking - password provided
+2022-07-21 10:44:28,993 [main] INFO ebanking - password provided
+2022-07-21 10:45:35,327 [main] INFO ebanking - password provided
+2022-07-21 10:46:26,120 [main] INFO ebanking - password provided
+2022-07-21 10:46:40,275 [main] INFO ebanking - validation started....
+2022-07-21 10:46:42,776 [main] INFO ebanking - test case passed....
+2022-07-21 10:57:16,831 [main] INFO ebanking - password provided
+2022-07-21 10:58:45,016 [main] INFO ebanking - password provided
+2022-07-21 11:01:09,685 [main] INFO ebanking - password provided
+2022-07-21 11:08:25,775 [main] INFO ebanking - password provided
+2022-07-21 11:08:52,449 [main] INFO ebanking - password provided
+2022-07-21 11:09:21,145 [main] INFO ebanking - password provided
+2022-07-21 11:09:50,471 [main] INFO ebanking - password provided
+2022-07-21 11:10:23,082 [main] INFO ebanking - password provided
+2022-07-21 11:11:29,549 [main] INFO ebanking - password provided
+2022-07-21 11:12:06,874 [main] INFO ebanking - password provided
+2022-07-21 11:13:16,832 [main] INFO ebanking - password provided
+2022-07-21 11:13:28,641 [main] INFO ebanking - validation started....
+2022-07-21 11:13:52,359 [main] INFO ebanking - password provided
+2022-07-21 11:15:55,838 [main] INFO ebanking - password provided
+2022-07-21 11:16:07,884 [main] INFO ebanking - validation started....
+2022-07-21 11:16:30,562 [main] INFO ebanking - password provided
+2022-07-21 11:16:52,486 [main] INFO ebanking - password provided
+2022-07-21 11:17:18,219 [main] INFO ebanking - password provided
+2022-07-21 11:17:49,171 [main] INFO ebanking - password provided
+2022-07-21 11:20:24,587 [main] INFO ebanking - password provided
+2022-07-21 11:24:59,204 [main] INFO ebanking - password provided
+2022-07-21 11:27:08,609 [main] INFO ebanking - password provided
+2022-07-21 11:27:52,789 [main] INFO ebanking - password provided
+2022-07-21 11:29:25,935 [main] INFO ebanking - password provided
+2022-07-21 11:32:42,821 [main] INFO ebanking - password provided
+2022-07-21 11:32:53,892 [main] INFO ebanking - validation started....
+2022-07-21 11:34:54,919 [main] INFO ebanking - password provided
+2022-07-21 11:35:05,292 [main] INFO ebanking - validation started....
+2022-07-21 11:40:31,045 [main] INFO ebanking - password provided
+2022-07-21 11:40:47,715 [main] INFO ebanking - validation started....
+2022-07-21 11:40:47,855 [main] INFO ebanking - test case passed....
+2022-07-21 11:41:12,488 [main] INFO ebanking - password provided
+2022-07-21 11:41:25,032 [main] INFO ebanking - validation started....
+2022-07-21 11:41:26,429 [main] INFO ebanking - test case passed....
+2022-07-21 11:43:13,002 [main] INFO ebanking - password provided
+2022-07-21 11:43:45,118 [main] INFO ebanking - password provided
+2022-07-21 11:44:30,989 [main] INFO ebanking - password provided
+2022-07-21 12:30:43,942 [main] INFO ebanking - password provided
+2022-07-21 12:30:55,465 [main] INFO ebanking - validation started....
+2022-07-21 12:30:55,483 [main] INFO ebanking - test case failed....
+2022-07-21 12:33:29,151 [main] INFO ebanking - password provided
+2022-07-21 12:33:43,622 [main] INFO ebanking - validation started....
+2022-07-21 12:33:45,517 [main] INFO ebanking - test case passed....
+2022-07-21 12:35:44,883 [main] INFO ebanking - password provided
+2022-07-21 12:37:08,874 [main] INFO ebanking - password provided
+2022-07-21 12:38:51,111 [main] INFO ebanking - password provided
+2022-07-21 12:39:33,033 [main] INFO ebanking - password provided
+2022-07-21 12:39:45,950 [main] INFO ebanking - validation started....
+2022-07-21 12:41:57,107 [main] INFO ebanking - password provided
+2022-07-21 12:42:09,437 [main] INFO ebanking - validation started....
+2022-07-21 12:42:10,772 [main] INFO ebanking - test case passed....
+2022-07-21 12:43:55,138 [main] INFO ebanking - password provided
+2022-07-21 12:44:31,933 [main] INFO ebanking - password provided
+2022-07-21 12:45:09,047 [main] INFO ebanking - password provided
+2022-07-21 12:45:20,220 [main] INFO ebanking - validation started....
+2022-07-21 12:45:20,251 [main] INFO ebanking - test case failed....
+2022-07-21 12:46:39,374 [main] INFO ebanking - password provided
+2022-07-21 12:46:50,436 [main] INFO ebanking - validation started....
+2022-07-21 12:46:50,475 [main] INFO ebanking - test case failed....
+2022-07-21 12:46:53,649 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-21 12:48:21,575 [main] INFO ebanking - password provided
+2022-07-21 12:48:34,515 [main] INFO ebanking - validation started....
+2022-07-21 12:48:35,889 [main] INFO ebanking - test case passed....
+2022-07-21 12:48:38,753 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-21 14:36:51,737 [main] INFO ebanking - password provided
+2022-07-21 14:37:27,812 [main] INFO ebanking - password provided
+2022-07-21 14:38:49,654 [main] INFO ebanking - password provided
+2022-07-21 14:39:24,140 [main] INFO ebanking - password provided
+2022-07-21 14:42:51,783 [main] INFO ebanking - password provided
+2022-07-21 14:43:26,315 [main] INFO ebanking - password provided
+2022-07-21 14:45:40,569 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:48:21,269 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:50:34,393 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:54:43,740 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:55:09,400 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:56:53,269 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:57:31,363 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:58:08,811 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:59:28,940 [main] INFO ebanking - @ editCustomer 
+2022-07-21 14:59:58,804 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:00:34,540 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:01:03,023 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:04:41,336 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:05:47,561 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:07:30,127 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:10:24,197 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:11:47,871 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:13:09,868 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:18:08,381 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:19:21,726 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:20:21,580 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:21:15,224 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:23:03,246 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:26:05,367 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:30:12,594 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:35:55,850 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:41:46,553 [main] INFO ebanking - @ editCustomer 
+2022-07-21 15:43:20,614 [main] INFO ebanking - @ editCustomer 
+2022-07-21 16:01:48,996 [main] INFO ebanking - @ editCustomer 
+2022-07-21 16:04:46,627 [main] INFO ebanking - @ editCustomer 
+2022-07-21 16:10:49,882 [main] INFO ebanking - @ editCustomer 
+2022-07-21 16:18:46,355 [main] INFO ebanking - @ editCustomer 
+2022-07-21 16:19:46,753 [main] INFO ebanking - @ editCustomer 
+2022-07-22 09:59:06,659 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:04:23,032 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:05:22,660 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:08:54,710 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:17:47,732 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:19:27,514 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:30:22,407 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:38:34,342 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:40:02,501 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:41:02,990 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:44:46,493 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:49:02,494 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:50:10,126 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:51:22,250 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:53:15,616 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:54:10,002 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:56:18,215 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:58:09,954 [main] INFO ebanking - @ editCustomer 
+2022-07-22 10:59:18,153 [main] INFO ebanking - @ editCustomer 
+2022-07-22 11:01:51,217 [main] INFO ebanking - @ editCustomer 
+2022-07-22 14:53:12,119 [main] INFO ebanking - @ editCustomer 
+2022-07-22 14:53:57,545 [main] INFO ebanking - @ editCustomer 
+2022-07-22 14:55:13,486 [main] INFO ebanking - @ editCustomer 
+2022-07-22 14:59:19,400 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:01:46,886 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:05:45,687 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:07:03,108 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:09:18,616 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:09:59,840 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:11:21,276 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:13:11,027 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:16:22,698 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:18:07,076 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:19:02,478 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:21:07,819 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:28:19,415 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:31:21,663 [main] INFO ebanking - @ editCustomer 
+2022-07-22 15:35:16,453 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:00:31,832 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:06:07,143 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:10:53,296 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:11:35,130 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:13:28,193 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:16:46,829 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:18:55,158 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:30:16,764 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:35:40,266 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:36:51,078 [main] INFO ebanking - @ editCustomer 
+2022-07-22 16:44:57,165 [main] INFO ebanking - password provided
+2022-07-22 16:45:45,516 [main] INFO ebanking - password provided
+2022-07-22 16:45:50,143 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:46:41,239 [main] INFO ebanking - password provided
+2022-07-22 16:46:47,251 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:47:30,070 [main] INFO ebanking - password provided
+2022-07-22 16:47:35,416 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:48:42,150 [main] INFO ebanking - password provided
+2022-07-22 16:49:17,545 [main] INFO ebanking - password provided
+2022-07-22 16:49:33,187 [main] INFO ebanking - validation started....
+2022-07-22 16:49:33,209 [main] INFO ebanking - test case failed....
+2022-07-22 16:49:36,398 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:49:59,624 [main] INFO ebanking - password provided
+2022-07-22 16:50:03,715 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:50:42,943 [main] INFO ebanking - password provided
+2022-07-22 16:50:46,936 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:51:16,245 [main] INFO ebanking - password provided
+2022-07-22 16:52:23,457 [main] INFO ebanking - password provided
+2022-07-22 16:52:58,743 [main] INFO ebanking - password provided
+2022-07-22 16:53:17,745 [main] INFO ebanking - pass to addCustomerEmptyFeilds 
+2022-07-22 16:54:00,542 [main] INFO ebanking - password provided
+2022-07-22 16:54:36,170 [main] INFO ebanking - password provided
+2022-07-22 16:55:43,594 [main] INFO ebanking - password provided
+2022-07-22 16:56:54,639 [main] INFO ebanking - password provided
+2022-07-22 16:57:23,833 [main] INFO ebanking - password provided
+2022-07-22 16:58:28,559 [main] INFO ebanking - password provided
+2022-07-22 17:10:58,122 [main] INFO ebanking - password provided
+2022-07-22 17:11:15,136 [main] INFO ebanking - validation started....
+2022-07-22 17:11:16,875 [main] INFO ebanking - test case passed....
+2022-07-22 20:26:43,940 [main] INFO ebanking - validation edit started....
+2022-07-22 20:26:43,953 [main] INFO ebanking - pass to editCustomerEmptyFeilds 
+2022-07-22 20:36:25,421 [main] INFO ebanking - validation edit started....
+2022-07-22 20:36:25,435 [main] INFO ebanking - pass to editCustomerEmptyFeilds 
+2022-07-22 21:28:59,040 [main] INFO ebanking - validation edit started....
+2022-07-22 21:28:59,052 [main] INFO ebanking - pass to editCustomerEmptyFeilds 
+2022-07-22 21:52:23,190 [main] INFO ebanking - validation delete started....
+2022-07-22 21:52:23,213 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-22 21:56:53,202 [main] INFO ebanking - password provided
+2022-07-22 21:57:50,396 [main] INFO ebanking - password provided
+2022-07-22 21:59:25,489 [main] INFO ebanking - password provided
+2022-07-22 22:00:41,688 [main] INFO ebanking - password provided
+2022-07-22 22:00:57,049 [main] INFO ebanking - validation started....
+2022-07-22 22:00:58,533 [main] INFO ebanking - test case passed....
+2022-07-22 22:14:40,203 [main] INFO ebanking - validation delete started....
+2022-07-22 22:14:40,232 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-24 10:17:31,656 [main] INFO ebanking - validation add account started....
+2022-07-24 11:14:51,939 [main] INFO ebanking - validation add account started....
+2022-07-24 11:25:14,782 [main] INFO ebanking - validation add account started....
+2022-07-24 11:28:53,157 [main] INFO ebanking - validation add account started....
+2022-07-24 11:34:20,928 [main] INFO ebanking - validation add account started....
+2022-07-24 11:35:17,883 [main] INFO ebanking - validation add account started....
+2022-07-24 11:36:31,656 [main] INFO ebanking - validation add account started....
+2022-07-24 11:38:22,148 [main] INFO ebanking - validation add account started....
+2022-07-24 11:39:04,862 [main] INFO ebanking - validation add account started....
+2022-07-24 11:40:33,371 [main] INFO ebanking - validation add account started....
+2022-07-24 11:42:10,975 [main] INFO ebanking - validation add account started....
+2022-07-24 11:42:57,115 [main] INFO ebanking - validation add account started....
+2022-07-24 11:44:28,372 [main] INFO ebanking - validation add account started....
+2022-07-24 11:54:28,444 [main] INFO ebanking - validation add account started....
+2022-07-24 11:56:03,966 [main] INFO ebanking - validation add account started....
+2022-07-24 12:48:09,798 [main] INFO ebanking - validation delete started....
+2022-07-24 12:48:09,834 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-24 12:49:26,607 [main] INFO ebanking - validation delete started....
+2022-07-24 12:49:26,624 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-24 13:10:50,710 [main] INFO ebanking - validation delete started....
+2022-07-24 13:10:50,724 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-24 17:27:24,843 [main] INFO ebanking - validation delete started....
+2022-07-24 17:29:46,622 [main] INFO ebanking - validation delete started....
+2022-07-24 18:12:38,423 [main] INFO ebanking - validation add account started....
+2022-07-24 18:50:52,685 [main] INFO ebanking - validation delete started....
+2022-07-24 18:59:30,947 [main] INFO ebanking - validation delete started....
+2022-07-24 19:40:15,723 [main] INFO ebanking - validation add account started....
+2022-07-24 19:43:44,703 [main] INFO ebanking - validation add account started....
+2022-07-24 19:49:47,735 [main] INFO ebanking - validation add account started....
+2022-07-24 19:50:27,341 [main] INFO ebanking - validation add account started....
+2022-07-25 10:54:15,078 [main] INFO ebanking - validation add account started....
+2022-07-25 10:56:46,626 [main] INFO ebanking - validation add account started....
+2022-07-25 10:57:58,369 [main] INFO ebanking - validation add account started....
+2022-07-25 10:58:40,259 [main] INFO ebanking - validation add account started....
+2022-07-25 11:00:08,310 [main] INFO ebanking - validation add account started....
+2022-07-25 11:00:08,322 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:03:48,423 [main] INFO ebanking - validation add account started....
+2022-07-26 11:03:48,441 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:05:13,370 [main] INFO ebanking - validation add account started....
+2022-07-26 11:05:13,399 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:12:59,343 [main] INFO ebanking - validation add account started....
+2022-07-26 11:12:59,376 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:15:43,243 [main] INFO ebanking - validation add account started....
+2022-07-26 11:15:43,273 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:17:21,340 [main] INFO ebanking - validation add account started....
+2022-07-26 11:17:21,357 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:18:42,821 [main] INFO ebanking - validation add account started....
+2022-07-26 11:18:42,843 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:22:47,949 [main] INFO ebanking - validation add account started....
+2022-07-26 11:22:47,962 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:23:47,948 [main] INFO ebanking - validation add account started....
+2022-07-26 11:23:47,963 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:28:48,494 [main] INFO ebanking - validation add account started....
+2022-07-26 11:28:48,519 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:34:58,345 [main] INFO ebanking - validation add account started....
+2022-07-26 11:34:58,380 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:38:08,686 [main] INFO ebanking - validation add account started....
+2022-07-26 11:38:08,709 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:39:01,945 [main] INFO ebanking - validation add account started....
+2022-07-26 11:39:01,978 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:40:31,980 [main] INFO ebanking - validation add account started....
+2022-07-26 11:40:31,994 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:41:41,202 [main] INFO ebanking - validation add account started....
+2022-07-26 11:41:41,225 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:46:08,654 [main] INFO ebanking - validation add account started....
+2022-07-26 11:46:08,671 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-26 11:47:45,872 [main] INFO ebanking - validation add account started....
+2022-07-26 11:48:23,311 [main] INFO ebanking - validation add account started....
+2022-07-26 11:48:23,328 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-29 16:15:13,250 [main] INFO ebanking - validation add account started....
+2022-07-29 16:15:13,264 [main] INFO ebanking - pass to delete valid Customer 
+2022-07-30 20:00:27,208 [main] INFO ebanking - validation add account started....
+2022-07-30 20:00:27,223 [main] INFO ebanking - pass to delete valid Customer 
