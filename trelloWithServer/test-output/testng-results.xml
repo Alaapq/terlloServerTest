@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-04T16:09:30Z" name="Default suite" finished-at="2022-10-04T16:09:34Z" duration-ms="3320">
+  <suite started-at="2022-10-04T16:36:40Z" name="terlloV1" finished-at="2022-10-04T16:36:45Z" duration-ms="5532">
     <groups>
     </groups>
-    <test started-at="2022-10-04T16:09:30Z" name="Default test" finished-at="2022-10-04T16:09:34Z" duration-ms="3320">
+    <test started-at="2022-10-04T16:36:40Z" name="terllo Test" finished-at="2022-10-04T16:36:45Z" duration-ms="5532">
       <class name="com.mypackage.test.NewTestServer">
-        <test-method signature="f()[pri:0, instance:com.mypackage.test.NewTestServer@14f9390f]" started-at="2022-10-04T16:09:31Z" name="f" finished-at="2022-10-04T16:09:34Z" duration-ms="3267" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.mypackage.test.NewTestServer@587e5365]" started-at="2022-10-04T16:36:40Z" name="f" finished-at="2022-10-04T16:36:45Z" duration-ms="5516" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.mypackage.test.NewTestServer -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- terllo Test -->
+  </suite> <!-- terlloV1 -->
 </testng-results>
