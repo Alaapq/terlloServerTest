@@ -5,8 +5,8 @@
 	
 	<test name="terllo Test">
 	<classes>
-		       <!-- <class name="com.mypackage.test.DownloadTask"/> -->
-		        <class name="com.mypackage.test.NewTestServer"/>
+		      <class name="com.mypackage.test.DownloadTask"/> 
+		        <!--  <class name="com.mypackage.test.NewTestServer"/>-->
 		     
 		     
 		</classes>
